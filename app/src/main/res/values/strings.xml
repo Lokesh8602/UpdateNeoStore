@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">UpdateNeoStore</string>
+    <string name="neostore">NeoStore</string>
+    <string name="first_name">First Name</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">ForgotPassword</string>
+    <string name="dont_have_an_account">Dont have an account</string>
+    <string name="add_account">Add Account</string>
+
+
+    <style name="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="materialThemeOverlay">
+            @style/ThemeOverlay.MaterialComponents.TextInputEditText.OutlinedBox.Dense
+        </item>
+    </style>
 </resources>
