@@ -1,4 +1,4 @@
-package com.neosoft.updateneostore
+package com.example.updateneostore
 
 import org.junit.Test
 
