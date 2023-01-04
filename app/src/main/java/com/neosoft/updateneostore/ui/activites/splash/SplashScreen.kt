@@ -3,9 +3,10 @@ package com.neosoft.updateneostore.ui.activites.splash
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.updateneostore.R
 import com.neosoft.updateneostore.MainActivity
-import com.neosoft.updateneostore.R
 import kotlinx.android.synthetic.main.activity_splash_screen.*
+
 
 class SplashScreen : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
